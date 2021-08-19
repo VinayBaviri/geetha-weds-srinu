@@ -3,7 +3,7 @@ body {
 
 /* Home Page Style */
 .ww-home-page {
-  background: url("../images/home-img.jpg") no-repeat center center;
+  background: url("../images/home-bg.jpg") no-repeat center center;
   background-size: cover;
   background-position: 70%;
   height: 100vh;
